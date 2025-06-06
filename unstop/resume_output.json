@@ -1,0 +1,145 @@
+{
+  "education": [
+    {
+      "institution": "Indian Institute of Technology (Indian School of Mines)",
+      "expected_graduation": "May 2026",
+      "degree": "Bachelor of Technology",
+      "major": "Electronics and Communication Engineering",
+      "gpa": "8.10 / 10.00",
+      "location": "Dhanbad, Jharkhand"
+    },
+    {
+      "institution": "Lal Bahadur Shastri Public School",
+      "graduation_date": "May 2022",
+      "degree": "Higher Secondary Education",
+      "percentage": "93.4",
+      "location": "Jaipur, Rajasthan"
+    },
+    {
+      "institution": "St. Xavier\u2019s School",
+      "graduation_date": "May 2020",
+      "degree": "Secondary Education",
+      "percentage": "94.6",
+      "location": "Bhiwadi, Rajasthan"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Zeru",
+      "start_date": "April 2025",
+      "end_date": "Present",
+      "description": [
+        "Analyze user behavior data across blockchain networks using Python (NumPy, Pandas) to extract actionable insights",
+        "Develop and optimize machine learning models to compute a decentralized Z-Score system for DeFi participants",
+        "Implement data preprocessing pipelines to clean and transform raw blockchain data for model training",
+        "Apply statistical methods and machine learning algorithms to identify patterns in user financial activities"
+      ]
+    },
+    {
+      "title": "Prompt Engineer",
+      "company": "Soul AI",
+      "start_date": "February 2025",
+      "end_date": "April 2025",
+      "description": [
+        "Designed and optimized AI-driven prompts for Large Language Models (LLMs) to enhance model accuracy and relevance",
+        "Experimented with various prompt formats and parameters to improve model performance and reduce hallucinations",
+        "Collaborated with data scientists to evaluate and validate prompt effectiveness using quantitative metrics",
+        "Documented best practices and created knowledge base for optimizing interactions with generative AI systems"
+      ]
+    }
+  ],
+  "skills": {
+    "programming_languages": [
+      "Python",
+      "C++",
+      "SQL",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "machine_learning_and_data_science": [
+      "NumPy",
+      "Pandas",
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "Matplotlib",
+      "Seaborn"
+    ],
+    "tools_and_platforms": [
+      "Git",
+      "AWS",
+      "Flask",
+      "Jupyter Notebooks"
+    ],
+    "machine_learning_techniques": [
+      "Regression",
+      "Classification",
+      "Clustering",
+      "Data Preprocessing",
+      "Feature Engineering"
+    ],
+    "other_skills": [
+      "Prompt Engineering",
+      "Statistical Analysis",
+      "Data Visualization",
+      "Problem Solving"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Cancer Classification Model",
+      "description": [
+        "Built a machine learning classification model using TensorFlow & Keras achieving 98% accuracy",
+        "Implemented data preprocessing techniques including normalization, outlier detection, and feature selection",
+        "Applied oversampling and regularization methods to address class imbalance issues in the dataset",
+        "Evaluated model performance using appropriate metrics (precision, recall, F1 score) and cross-validation techniques"
+      ]
+    },
+    {
+      "name": "Entity Recognition System",
+      "description": [
+        "Developed an automated NLP system for extracting entities from Hindi and English texts using SpaCy and Stanza",
+        "Implemented comprehensive text preprocessing pipeline including tokenization, stopword removal, and lemmatization",
+        "Achieved 88% accuracy in entity identification through iterative model optimization",
+        "Documented methodology and created visualization tools to interpret model results"
+      ]
+    },
+    {
+      "name": "Attendencer: Facial Recognition System",
+      "description": [
+        "Developed an automated attendance system using computer vision and machine learning techniques",
+        "Implemented real-time face detection and recognition using OpenCV and face-recognition libraries",
+        "Built interactive user interface using PyQt5 with data visualization components",
+        "Achieved 99% accuracy through model optimization and appropriate feature extraction methods"
+      ]
+    }
+  ],
+  "certifications": [],
+  "achievements": [
+    "Solved 300+ algorithmic problems on Codeforces and Codechef, demonstrating strong problem-solving skills",
+    "Earned 5 Star badge in problem solving on HackerRank",
+    "Implemented 200+ data structures & algorithms on platforms like Leetcode and GeeksforGeeks",
+    "Achieved a global rank of 3256 in Meta Hacker Cup 2023 Round 2",
+    "Secured a global rank of 2678 in Codeforces Round 955 (Div 2) Contest"
+  ],
+  "leadership": [
+    {
+      "role": "DUGC (Departmental Under Graduate Committee) Member: Electronics Branch",
+      "description": "Representing student concerns and collaborating with faculty on curriculum development"
+    },
+    {
+      "role": "Co-ordinator: We The Crew Club, Official Street Dance Club of IIT (ISM), Dhanbad",
+      "description": "Organizing events and managing team activities"
+    },
+    {
+      "role": "Sports Captain and General Secretary",
+      "description": "Led school teams, demonstrating leadership and organizational skills"
+    },
+    {
+      "role": "1st position",
+      "description": "Street Dance Battle at Inter IIT Cultural Meet 6.0"
+    }
+  ]
+}

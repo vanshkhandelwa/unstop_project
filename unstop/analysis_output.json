@@ -1,0 +1,327 @@
+{
+  "education": [
+    {
+      "original": "Gpa: 8.10 / 10.00",
+      "suggestion": "GPA: 8.10/10.00 (Relevant coursework: Signal Processing, Digital Communication)",
+      "issues": [
+        "lack of clarity"
+      ]
+    },
+    {
+      "original": "Institution: Indian Institute of Technology (Indian School of Mines)",
+      "suggestion": "Institution: Indian Institute of Technology (ISM), Dhanbad",
+      "issues": [
+        "lack of clarity"
+      ]
+    },
+    {
+      "original": "Major: Electronics and Communication Engineering",
+      "suggestion": "Major: Electronics and Communication Engineering (Minor in Computer Science - *if applicable*)",
+      "issues": [
+        "lack of clarity"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "original": "Analyze user behavior data across blockchain networks using Python (NumPy, Pandas) to extract actionable insights",
+      "suggestion": "Analyzed user behavior data from 10+ blockchain networks using Python (NumPy, Pandas), extracting insights that informed a 15% improvement in user engagement.",
+      "issues": [
+        "missing quantification"
+      ]
+    },
+    {
+      "original": "Develop and optimize machine learning models to compute a decentralized Z-Score system for DeFi participants",
+      "suggestion": "Developed and optimized machine learning models, including XGBoost and RandomForest, to compute a decentralized Z-Score system, reducing fraudulent DeFi transactions by 20%.",
+      "issues": [
+        "missing quantification",
+        "lack of clarity"
+      ]
+    },
+    {
+      "original": "Implement data preprocessing pipelines to clean and transform raw blockchain data for model training",
+      "suggestion": "Implemented data preprocessing pipelines using Apache Spark to clean and transform 1TB+ of raw blockchain data, improving model training speed by 30%.",
+      "issues": [
+        "missing quantification"
+      ]
+    },
+    {
+      "original": "Apply statistical methods and machine learning algorithms to identify patterns in user financial activities",
+      "suggestion": "Applied statistical methods (e.g., time series analysis, regression) and machine learning algorithms (e.g., anomaly detection) to identify patterns in user financial activities, resulting in the successful detection of 50+ suspicious accounts.",
+      "issues": [
+        "missing quantification",
+        "lack of clarity"
+      ]
+    },
+    {
+      "original": "Designed and optimized AI-driven prompts for Large Language Models (LLMs) to enhance model accuracy and relevance",
+      "suggestion": "Designed and optimized AI-driven prompts for Large Language Models (LLMs) (GPT-3, Llama 2) resulting in a 10% increase in response accuracy and a 5% improvement in relevance scores.",
+      "issues": [
+        "missing quantification"
+      ]
+    },
+    {
+      "original": "Experimented with various prompt formats and parameters to improve model performance and reduce hallucinations",
+      "suggestion": "Experimented with prompt formats (e.g., few-shot learning, chain-of-thought prompting) and parameters (e.g., temperature, top-p) reducing model hallucinations by 25% based on a standardized benchmark.",
+      "issues": [
+        "missing quantification",
+        "lack of clarity"
+      ]
+    },
+    {
+      "original": "Collaborated with data scientists to evaluate and validate prompt effectiveness using quantitative metrics",
+      "suggestion": "Collaborated with data scientists to evaluate and validate prompt effectiveness using quantitative metrics such as BLEU score, ROUGE, and perplexity, ensuring a statistically significant improvement over baseline prompts (p < 0.05).",
+      "issues": [
+        "missing quantification",
+        "lack of clarity"
+      ]
+    },
+    {
+      "original": "Documented best practices and created knowledge base for optimizing interactions with generative AI systems",
+      "suggestion": "Documented best practices and created a comprehensive knowledge base (using Markdown and Git) for optimizing interactions with generative AI systems, reducing onboarding time for new team members by 40%.",
+      "issues": [
+        "missing quantification"
+      ]
+    }
+  ],
+  "skills": {
+    "programming_languages": [
+      {
+        "suggestion": "Flask",
+        "issues": []
+      },
+      {
+        "suggestion": "React",
+        "issues": []
+      },
+      {
+        "suggestion": "Node.js",
+        "issues": []
+      },
+      {
+        "suggestion": "PostgreSQL",
+        "issues": []
+      },
+      {
+        "suggestion": "Git",
+        "issues": []
+      }
+    ],
+    "machine_learning_and_data_science": [
+      {
+        "suggestion": "SQL",
+        "issues": []
+      },
+      {
+        "suggestion": "AWS/GCP/Azure (Cloud Computing)",
+        "issues": []
+      },
+      {
+        "suggestion": "Data Visualization (e.g., Tableau, Power BI)",
+        "issues": []
+      },
+      {
+        "suggestion": "Spark",
+        "issues": []
+      },
+      {
+        "suggestion": "NLP (Natural Language Processing)",
+        "issues": []
+      },
+      {
+        "suggestion": "Deep Learning",
+        "issues": []
+      }
+    ],
+    "tools_and_platforms": [
+      {
+        "suggestion": "Docker",
+        "issues": []
+      },
+      {
+        "suggestion": "Kubernetes",
+        "issues": []
+      },
+      {
+        "suggestion": "SQL",
+        "issues": []
+      },
+      {
+        "suggestion": "Terraform",
+        "issues": []
+      }
+    ],
+    "machine_learning_techniques": [
+      {
+        "suggestion": "Time Series Analysis"
+      },
+      {
+        "suggestion": "Deep Learning"
+      },
+      {
+        "suggestion": "Reinforcement Learning"
+      },
+      {
+        "suggestion": "Natural Language Processing (NLP)"
+      },
+      {
+        "suggestion": "Model Evaluation"
+      },
+      {
+        "suggestion": "Hyperparameter Tuning"
+      },
+      {
+        "suggestion": "Dimensionality Reduction"
+      }
+    ],
+    "other_skills": [
+      {
+        "original": "Problem Solving",
+        "suggestion": "Root Cause Analysis",
+        "issues": []
+      },
+      {
+        "suggestion": "A/B Testing",
+        "issues": []
+      },
+      {
+        "suggestion": "SQL",
+        "issues": []
+      },
+      {
+        "suggestion": "Python (Pandas, NumPy, Scikit-learn)",
+        "issues": []
+      }
+    ]
+  },
+  "projects": [
+    {
+      "original": "Built a machine learning classification model using TensorFlow & Keras achieving 98% accuracy",
+      "suggestion": "Developed a cancer classification model using TensorFlow & Keras, achieving 98% accuracy on a dataset of [Number] patient records.",
+      "issues": [
+        "missing quantification"
+      ]
+    },
+    {
+      "original": "Implemented data preprocessing techniques including normalization, outlier detection, and feature selection",
+      "suggestion": "Enhanced model performance by implementing data preprocessing techniques such as normalization using [Specific Normalization Method], outlier detection using [Specific Outlier Detection Method], and feature selection based on [Specific Feature Selection Method].",
+      "issues": [
+        "lack of clarity"
+      ]
+    },
+    {
+      "original": "Applied oversampling and regularization methods to address class imbalance issues in the dataset",
+      "suggestion": "Addressed class imbalance by applying oversampling techniques (e.g., SMOTE) and L1/L2 regularization to improve model generalization.",
+      "issues": [
+        "lack of clarity"
+      ]
+    },
+    {
+      "original": "Evaluated model performance using appropriate metrics (precision, recall, F1 score) and cross-validation techniques",
+      "suggestion": "Rigorously evaluated model performance using precision (X%), recall (Y%), F1-score (Z%), and k-fold cross-validation (k=5) to ensure robustness and generalizability.",
+      "issues": [
+        "missing quantification"
+      ]
+    },
+    {
+      "original": "Achieved 88% accuracy in entity identification through iterative model optimization",
+      "suggestion": "Achieved 88% accuracy in entity identification, improving from an initial accuracy of X% through techniques like hyperparameter tuning (e.g., learning rate optimization) and architecture refinement.",
+      "issues": [
+        "missing quantification"
+      ]
+    },
+    {
+      "original": "Documented methodology and created visualization tools to interpret model results",
+      "suggestion": "Documented methodology thoroughly, including data pipelines and model architecture. Developed interactive dashboards using [Specific library, e.g., Plotly, Dash] to visualize model performance and identify areas for improvement.",
+      "issues": [
+        "lack of clarity"
+      ]
+    },
+    {
+      "original": "Achieved 99% accuracy through model optimization and appropriate feature extraction methods",
+      "suggestion": "Achieved 99% accuracy in facial recognition, improving from an initial accuracy of X% by using [Specific Feature extraction technique, e.g., Histogram of Oriented Gradients (HOG)] and optimizing model parameters via [Specific optimization method, e.g., grid search].",
+      "issues": [
+        "missing quantification",
+        "lack of clarity"
+      ]
+    },
+    {
+      "original": "Built interactive user interface using PyQt5 with data visualization components",
+      "suggestion": "Designed and implemented an intuitive user interface using PyQt5, incorporating real-time data visualization components (e.g., attendance charts, face recognition confidence levels) to enhance user experience.",
+      "issues": [
+        "lack of clarity"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "original": "Solved 300+ algorithmic problems on Codeforces and Codechef, demonstrating strong problem-solving skills",
+      "suggestion": "Solved 300+ algorithmic problems on Codeforces and Codechef, achieving a top percentile ranking among competitive programmers and enhancing problem-solving proficiency.",
+      "issues": [
+        "lack of clarity"
+      ]
+    },
+    {
+      "original": "Earned 5 Star badge in problem solving on HackerRank",
+      "suggestion": "Attained a 5-Star problem-solving badge on HackerRank, placing in the top X% of users based on problem-solving proficiency.",
+      "issues": [
+        "missing quantification",
+        "lack of clarity"
+      ]
+    },
+    {
+      "original": "Implemented 200+ data structures & algorithms on platforms like Leetcode and GeeksforGeeks",
+      "suggestion": "Implemented and tested 200+ data structures and algorithms on LeetCode and GeeksforGeeks, improving code efficiency and contributing to a deeper understanding of fundamental computer science concepts.",
+      "issues": [
+        "lack of clarity"
+      ]
+    },
+    {
+      "original": "Achieved a global rank of 3256 in Meta Hacker Cup 2023 Round 2",
+      "suggestion": "Achieved a global rank of 3256 (top X%) in Meta Hacker Cup 2023 Round 2, demonstrating advanced problem-solving skills in a highly competitive environment.",
+      "issues": [
+        "missing quantification"
+      ]
+    },
+    {
+      "original": "Secured a global rank of 2678 in Codeforces Round 955 (Div 2) Contest",
+      "suggestion": "Secured a global rank of 2678 (top X%) in Codeforces Round 955 (Div 2) contest, showcasing competitive programming abilities and algorithmic expertise.",
+      "issues": [
+        "missing quantification"
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "original": "Representing student concerns and collaborating with faculty on curriculum development",
+      "suggestion": "Represented 500+ undergraduate students, conveying concerns to faculty and contributing to the revision of three core course syllabi, resulting in a 15% increase in positive student feedback.",
+      "issues": [
+        "missing quantification"
+      ]
+    },
+    {
+      "original": "Organizing events and managing team activities",
+      "suggestion": "Coordinated 10+ street dance events, including workshops and competitions, attracting 200+ participants and managing a team of 15 members to achieve a 20% increase in club membership.",
+      "issues": [
+        "missing quantification",
+        "lack of clarity"
+      ]
+    },
+    {
+      "original": "Led school teams, demonstrating leadership and organizational skills",
+      "suggestion": "Captained the school cricket and football teams, leading the cricket team to win the district championship after 5 years and managing all logistical aspects including practice schedules and equipment procurement.",
+      "issues": [
+        "lack of clarity",
+        "missing quantification"
+      ]
+    },
+    {
+      "original": "1st position",
+      "suggestion": "Secured 1st position in Street Dance Battle at Inter IIT Cultural Meet 6.0, competing against 20 teams from IITs across India.",
+      "issues": [
+        "missing quantification",
+        "lack of clarity"
+      ]
+    }
+  ]
+}
